@@ -1,0 +1,10 @@
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\bin\Debug\Piemers.exe.config
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\bin\Debug\Piemers.exe
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\bin\Debug\Piemers.pdb
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.csprojAssemblyReference.cache
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.Form1.resources
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.Properties.Resources.resources
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.csproj.GenerateResource.cache
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.exe
+C:\Users\Administrator.EliteBook-8760w\Documents\Piemers\Piemers\obj\Debug\Piemers.pdb
